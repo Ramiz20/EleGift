@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EleGift/static/css/main.b6083c04.css",
+    "main.js": "/EleGift/static/js/main.eff0490c.js",
+    "index.html": "/EleGift/index.html",
+    "main.b6083c04.css.map": "/EleGift/static/css/main.b6083c04.css.map",
+    "main.eff0490c.js.map": "/EleGift/static/js/main.eff0490c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6083c04.css",
+    "static/js/main.eff0490c.js"
+  ]
+}

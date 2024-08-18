@@ -1,0 +1,364 @@
+[
+    {
+        "picture": "./Picture/Bear.jpeg",
+        "name": "Teddy Bear",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "New",
+            "Top Rated",
+            "Trending",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Cake.jpeg",
+        "name": "Baked Goodies",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "Top Rated",
+            "Trending"
+        ]
+    },
+    {
+        "picture": "./Picture/ChristmasGift.jpg",
+        "name": "Notebooks",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Trending",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Bouquet.jpeg",
+        "name": "Flowers",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Mouse.jpeg",
+        "name": "Electronics",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "Best Offer",
+            "New"
+        ]
+    },
+    {
+        "picture": "./Picture/New.jpeg",
+        "name": "Accessories",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated"
+        ]
+    },
+    {
+        "picture": "./Picture/Ps5.jpeg",
+        "name": "Console Games",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "New",
+            "Trending"
+        ]
+    },
+    {
+        "picture": "./Picture/Plant.jpeg",
+        "name": "Gardening",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Trending",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Consol.jpeg",
+        "name": "Console Games",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Trending"
+        ]
+    },
+    {
+        "picture": "./Picture/SmartWatch.jpeg",
+        "name": "Accessories",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "Top Rated",
+            "Trending",
+            "New",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/HeadPhones.jpeg",
+        "name": "Electronics",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated"
+        ]
+    },
+    {
+        "picture": "./Picture/AirPods.jpeg",
+        "name": "Accessories",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "New",
+            "Trending"
+        ]
+    },
+    {
+        "picture": "./Picture/Perfume.jpg",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Boots.jpeg",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated",
+            "New",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/HighHeels.png",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "New",
+            "Trending",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Sneakers.jpg",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Suite.jpg",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Set.jpg",
+        "name": "Accessories ",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "New",
+            "Best Offer"
+        ]
+    },
+    {
+        "picture": "./Picture/Frame.jpeg",
+        "name": "Flowers",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": false,
+        "categories": [
+            "New",
+            "Top Rated"
+        ]
+    },
+    {
+        "picture": "./Picture/Plant.jpeg",
+        "name": "Gardening",
+        "priceRange": {
+            "min": "12.95",
+            "max": "147.56"
+        },
+        "deliveryInfo": {
+            "message": "Earliest Delivery From",
+            "date": "27 Nov"
+        },
+        "price": "27",
+        "giftNow": true,
+        "categories": [
+            "Top Rated",
+            "Trending",
+            "Best Offer"
+        ]
+    }
+]
